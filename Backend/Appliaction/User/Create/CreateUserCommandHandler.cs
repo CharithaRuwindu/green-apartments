@@ -7,4 +7,7 @@ using System.Threading.Tasks;
 
 namespace Application.User.Create;
 
-public record CreateUserCommand(string firstname, string lastname, string email, string password, string contact) : IRequest;
+internal class CreateUserCommandHandler : IRequestHandler<CreateUserCommand>
+{
+
+}
