@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using Domain.Interfaces;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,21 @@ namespace Application.User.Create;
 
 internal class CreateUserCommandHandler : IRequestHandler<CreateUserCommand>
 {
+    private readonly IUserRepository _userRepository;
 
+    public CreateUserCommandHandler(IUserRepository userRepository)
+    {
+        _userRepository = userRepository;
+    }
+
+    public Task Handle(CreateUserCommand request, CancellationToken cancellationToken)
+    {
+        var user = new User(
+            new Id(Guid.NewGuid()),
+            request Email,
+            request FirstName,
+            request.lastname,
+            request.PasswordHash,
+            Sku.Create(request.Sku)!);
+    }
 }
