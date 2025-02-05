@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\personal project\\Green Apartments\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|e:\\personal project\\green apartments\\backend\\webapi\\endpoints\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|e:\\personal project\\green apartments\\backend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB5BECF2-E467-4877-8FBF-ACA9E4A75ACE}|Appliaction\\Application.csproj|e:\\personal project\\green apartments\\backend\\appliaction\\user\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB5BECF2-E467-4877-8FBF-ACA9E4A75ACE}|Appliaction\\Application.csproj|solutionrelative:appliaction\\user\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|e:\\personal project\\green apartments\\backend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{41061E9A-EE9D-494E-8F65-96D713611388}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BFF5A89-3379-4615-8F06-981D8B6B9EE6}|Infrastructure\\Infrastructure.csproj|e:\\personal project\\green apartments\\backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BFF5A89-3379-4615-8F06-981D8B6B9EE6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,32 +79,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\Endpoints\\User.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\User.cs",
+              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\Endpoints\\User.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:25:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateUserCommandHandler.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\User\\Create\\CreateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Appliaction\\User\\Create\\CreateUserCommandHandler.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\User\\Create\\CreateUserCommandHandler.cs",
               "RelativeToolTip": "Appliaction\\User\\Create\\CreateUserCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T18:16:03.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateRoomCommand.cs",
-              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\Room\\Create\\CreateRoomCommand.cs",
-              "RelativeDocumentMoniker": "Appliaction\\Room\\Create\\CreateRoomCommand.cs",
-              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\Room\\Create\\CreateRoomCommand.cs",
-              "RelativeToolTip": "Appliaction\\Room\\Create\\CreateRoomCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:25:44.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\User\\Create\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "Appliaction\\User\\Create\\CreateUserCommand.cs",
@@ -108,12 +112,11 @@
               "RelativeToolTip": "Appliaction\\User\\Create\\CreateUserCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:24:21.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:24:21.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Domain\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Room.cs",
@@ -121,12 +124,11 @@
               "RelativeToolTip": "Domain\\Entities\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:15:20.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:15:20.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IRoomRepository.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Domain\\Interfaces\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoomRepository.cs",
@@ -134,12 +136,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IRoomRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:12:53.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:12:53.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
@@ -147,12 +148,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T18:24:39.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T18:24:39.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
@@ -160,12 +160,36 @@
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T17:30:27.914Z",
+              "WhenOpened": "2025-01-30T17:30:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T08:25:58.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "CreateRoomCommand.cs",
+              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\Room\\Create\\CreateRoomCommand.cs",
+              "RelativeDocumentMoniker": "Appliaction\\Room\\Create\\CreateRoomCommand.cs",
+              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\Room\\Create\\CreateRoomCommand.cs",
+              "RelativeToolTip": "Appliaction\\Room\\Create\\CreateRoomCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:25:44.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
@@ -173,12 +197,11 @@
               "RelativeToolTip": "WebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:24:22.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:24:22.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Presentation\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Presentation\\DependencyInjection.cs",
@@ -186,12 +209,11 @@
               "RelativeToolTip": "Presentation\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:20:56.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:20:56.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
@@ -199,12 +221,11 @@
               "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:13:57.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:13:57.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Application.csproj",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\Application.csproj",
               "RelativeDocumentMoniker": "Appliaction\\Application.csproj",
@@ -218,19 +239,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WebApi.csproj",
-              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-29T08:25:58.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Domain.csproj",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -243,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Appliaction\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Appliaction\\DependencyInjection.cs",
@@ -251,8 +259,7 @@
               "RelativeToolTip": "Appliaction\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:01:30.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:01:30.038Z"
             }
           ]
         },

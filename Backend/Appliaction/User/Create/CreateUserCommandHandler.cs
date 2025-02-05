@@ -19,7 +19,7 @@ internal class CreateUserCommandHandler : IRequestHandler<CreateUserCommand>
         _unitOfWork = unitOfWork;
     }
 
-    Task IRequestHandler<CreateUserCommand>.Handle(CreateUserCommand request, CancellationToken cancellationToken)
+    public async Task Handle(CreateUserCommand request, CancellationToken cancellationToken)
     {
         var user = new User(
             new Id(Guid.NewGuid()),
@@ -30,5 +30,7 @@ internal class CreateUserCommandHandler : IRequestHandler<CreateUserCommand>
             Sku.Create(request.Sku)!);
 
         _userRepository.Add(user);
+
+        await _unitOfWork.SaveChangesAsync(cancellationToken);
     }
 }
