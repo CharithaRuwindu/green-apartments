@@ -10,5 +10,6 @@ namespace Domain.Interfaces
     public interface IUserRepository
     {
         void Add(User user);
+        void Remove(User user);
     }
 }
