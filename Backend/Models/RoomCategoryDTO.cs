@@ -1,6 +1,6 @@
 ﻿namespace Backend.Models
 {
-    public class RoomCategory
+    public class RoomCategoryDTO
     {
         public Guid CategoryId { get; set; }
         public String CategoryName { get; set; }

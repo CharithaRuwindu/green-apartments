@@ -1,6 +1,6 @@
 ﻿namespace Backend.Models
 {
-    public class Room
+    public class RoomDTO
     {
         public Guid RoomId { get; set; }
         public int RoomCode { get; set; }

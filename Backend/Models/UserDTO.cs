@@ -1,6 +1,6 @@
 ﻿namespace Backend.Models
 {
-    public class User
+    public class UserDTO
     {
         public Guid UserId { get; set; }
         public String FirstName { get; set; }
