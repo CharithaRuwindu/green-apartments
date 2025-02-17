@@ -6,6 +6,6 @@
         public int RoomCode { get; set; }
         public Guid RoomCategoryId { get; set; }
         public int Status { get; set; }
-        public Boolean Availability { get; set; }
+        public bool Availability { get; set; }
     }
 }
