@@ -3,7 +3,6 @@
     public class BookingDTO
     {
         public Guid BookingID { get; set; }
-        public String RoomIds { get; set; }
         public Guid CustomerId { get; set; }
         public String PaymentId { get; set; }
         public DateTime CheckInDate { get; set; }
