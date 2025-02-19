@@ -3,6 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
 {
+    public interface IUserService
+    {
+        Task<UserDTO> RegisterUserAsync(UserModel model);
+        Task<UserDTO> GetUserByIdAsync(Guid UserId);
+    }
     [ApiController]
     [Route("api/users")]
     public class UserController : ControllerBase
@@ -21,7 +26,7 @@ namespace Backend.Controllers
                 return BadRequest(ModelState);
 
             var userDTO = await _userService.RegisterUserAsync(model);
-            return CreatedAtAction(nameof(GetUser), new { id = userDTO.Id }, userDTO);
+            return CreatedAtAction(nameof(GetUser), new { UserId = userDTO.UserId }, userDTO);
         }
 
         [HttpGet("{id}")]
@@ -30,9 +35,5 @@ namespace Backend.Controllers
             var userDTO = await _userService.GetUserByIdAsync(id);
             return userDTO != null ? Ok(userDTO) : NotFound();
         }
-    }
-
-    internal interface IUserService
-    {
     }
 }
