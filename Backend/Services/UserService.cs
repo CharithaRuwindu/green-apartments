@@ -23,12 +23,14 @@ namespace Backend.Services
                 FirstName = model.FirstName,
                 LastName = model.LastName,
                 Email = model.Email,
+                NormalizedEmail = NormalizeEmail(model.Email),
                 HashedPassword = HashPassword(model.Password),
                 Role = "User",
                 EmailVerified = false,
                 IsActive = true,
                 CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
+                UpdatedAt = DateTime.UtcNow,
+                LastLogin = null
             };
 
             var createdUser = await _userRepository.CreateUserAsync(user);
@@ -62,6 +64,11 @@ namespace Backend.Services
             using var sha256 = SHA256.Create();
             var bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
             return Convert.ToBase64String(bytes);
+        }
+
+        private string NormalizeEmail(string email)
+        {
+            return email.Trim().ToUpperInvariant();
         }
     }
 }
