@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "E:\\personal project\\Green Apartments\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250221182202_nullable login at creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250221182202_nullable login at creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\migrations\\20250220174746_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:migrations\\20250220174746_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\migrations\\20250221182202_nullable login at creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:migrations\\20250221182202_nullable login at creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\migrations\\20250220174746_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:migrations\\20250220174746_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "20250221182202_nullable login at creation.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250221182202_nullable login at creation.cs",
               "RelativeDocumentMoniker": "Migrations\\20250221182202_nullable login at creation.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250221182202_nullable login at creation.cs",
               "RelativeToolTip": "Migrations\\20250221182202_nullable login at creation.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:22:02.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "20250220174746_initial.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250220174746_initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250220174746_initial.cs",
@@ -116,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwEMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T16:56:45.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -155,20 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T16:12:46.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -176,12 +176,11 @@
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:21:55.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:21:55.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Dto\\UserDTO.cs",
               "RelativeDocumentMoniker": "Dto\\UserDTO.cs",
@@ -189,25 +188,24 @@
               "RelativeToolTip": "Dto\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T17:04:24.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:04:24.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T17:44:00.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -215,12 +213,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T17:45:21.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:45:21.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
@@ -228,8 +225,7 @@
               "RelativeToolTip": "Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:55:44.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:55:44.225Z"
             },
             {
               "$type": "Document",

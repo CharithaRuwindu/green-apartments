@@ -1,4 +1,5 @@
 ﻿using Backend.Models;
+using Backend.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
@@ -6,7 +7,7 @@ namespace Backend.Controllers
     public interface IUserService
     {
         Task<UserDTO> RegisterUserAsync(UserModel model);
-        Task<UserDTO> GetUserByIdAsync(Guid UserId);
+        Task<UserDTO?> GetUserByIdAsync(Guid UserId);
     }
     [ApiController]
     [Route("api/users")]
