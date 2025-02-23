@@ -4,11 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
 {
-    public interface IUserService
-    {
-        Task<UserDTO> RegisterUserAsync(UserModel model);
-        Task<UserDTO?> GetUserByIdAsync(Guid UserId);
-    }
     [ApiController]
     [Route("api/users")]
     public class UserController : ControllerBase
@@ -30,10 +25,10 @@ namespace Backend.Controllers
             return CreatedAtAction(nameof(GetUser), new { UserId = userDTO.UserId }, userDTO);
         }
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetUser(Guid id)
+        [HttpGet("{UserId}")]
+        public async Task<IActionResult> GetUser(Guid UserId)
         {
-            var userDTO = await _userService.GetUserByIdAsync(id);
+            var userDTO = await _userService.GetUserByIdAsync(UserId);
             return userDTO != null ? Ok(userDTO) : NotFound();
         }
     }
