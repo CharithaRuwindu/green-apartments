@@ -59,6 +59,11 @@ namespace Backend.Services
             };
         }
 
+        public async Task<IEnumerable<UserDTO>> GetAllUsersAsync()
+        {
+            var users = await _userRepository.GetAllUsersAsync();
+        }
+
         private string HashPassword(string password)
         {
             using var sha256 = SHA256.Create();

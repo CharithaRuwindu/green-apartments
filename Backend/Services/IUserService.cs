@@ -6,5 +6,6 @@ namespace Backend.Services
     {
         Task<UserDTO> RegisterUserAsync(UserModel model);
         Task<UserDTO?> GetUserByIdAsync(Guid id);
+        Task<IEnumerable<UserDTO>> GetAllUsersAsync();
     }
 }

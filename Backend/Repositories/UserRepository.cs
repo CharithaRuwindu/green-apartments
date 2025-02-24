@@ -24,5 +24,10 @@ namespace Backend.Repositories
         {
             return await _context.Users.FindAsync(id);
         }
+
+        public async Task<IEnumerable<User>> GetAllUsersAsync()
+        {
+            return await _context.Users.ToListAsync();
+        }
     }
 }
