@@ -62,6 +62,15 @@ namespace Backend.Services
         public async Task<IEnumerable<UserDTO>> GetAllUsersAsync()
         {
             var users = await _userRepository.GetAllUsersAsync();
+            return users.Select(users => new UserDTO
+            {
+                UserId = users.UserId,
+                FirstName = users.FirstName,
+                LastName = users.LastName,
+                Email = users.Email,
+                NormalizedEmail = users.NormalizedEmail,
+                IsActive = users.IsActive
+            });
         }
 
         private string HashPassword(string password)

@@ -31,5 +31,12 @@ namespace Backend.Controllers
             var userDTO = await _userService.GetUserByIdAsync(UserId);
             return userDTO != null ? Ok(userDTO) : NotFound();
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllUsers()
+        {
+            var users = await _userService.GetAllUsersAsync();
+            return Ok(users);
+        }
     }
 }
