@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\personal project\\Green Apartments\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\roomcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F0E489B-2ACE-445C-BD63-2BA16894D426}|Backend.csproj|e:\\personal project\\green apartments\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Entities\\Room.cs",
+              "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Entities\\Room.cs",
+              "RelativeToolTip": "Entities\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:25:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RoomModel.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Models\\RoomModel.cs",
               "RelativeDocumentMoniker": "Models\\RoomModel.cs",
@@ -99,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RoomDTO.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Dto\\RoomDTO.cs",
               "RelativeDocumentMoniker": "Dto\\RoomDTO.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Dto\\RoomDTO.cs",
               "RelativeToolTip": "Dto\\RoomDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:59:09.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -120,12 +137,11 @@
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAYwEcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:56:45.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:56:45.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -133,12 +149,11 @@
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:27:06.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:27:06.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -146,38 +161,37 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:12:46.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T16:12:46.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Entities\\User.cs",
               "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:21:55.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Dto\\UserDTO.cs",
               "RelativeDocumentMoniker": "Dto\\UserDTO.cs",
               "ToolTip": "E:\\personal project\\Green Apartments\\Backend\\Dto\\UserDTO.cs",
               "RelativeToolTip": "Dto\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T17:04:24.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -189,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserModel.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
@@ -197,12 +211,11 @@
               "RelativeToolTip": "Models\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T18:22:23.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T18:22:23.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20250220174746_initial.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250220174746_initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250220174746_initial.cs",
@@ -214,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RoomCategoryDTO.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Dto\\RoomCategoryDTO.cs",
               "RelativeDocumentMoniker": "Dto\\RoomCategoryDTO.cs",
@@ -222,12 +235,11 @@
               "RelativeToolTip": "Dto\\RoomCategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T15:33:44.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T15:33:44.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
@@ -239,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20250221182202_nullable login at creation.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Migrations\\20250221182202_nullable login at creation.cs",
               "RelativeDocumentMoniker": "Migrations\\20250221182202_nullable login at creation.cs",
@@ -251,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -263,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -275,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookingDTO.cs",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Dto\\BookingDTO.cs",
               "RelativeDocumentMoniker": "Dto\\BookingDTO.cs",
@@ -287,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Backend.csproj",
               "DocumentMoniker": "E:\\personal project\\Green Apartments\\Backend\\Backend.csproj",
               "RelativeDocumentMoniker": "Backend.csproj",
