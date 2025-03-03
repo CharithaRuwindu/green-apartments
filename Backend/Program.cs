@@ -20,14 +20,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
+
 
 builder.Services.AddAuthorization();
 builder.Services.AddAuthentication().AddCookie(IdentityConstants.ApplicationScheme);
 
-builder.Services.AddIdentityCore<User>()
-    .AddEntityFrameworkStores<AppDbContext>()
-    .AddApiEndpoints();
+builder.Services.AddIdentityApiEndpoints<User>()
+                .AddEntityFrameworkStores<AppDbContext>();
 
 
 
@@ -36,6 +37,8 @@ builder.Services.AddIdentityCore<User>()
 
 
 var app = builder.Build();
+
+app.MapIdentityApi<ApplicationUser>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

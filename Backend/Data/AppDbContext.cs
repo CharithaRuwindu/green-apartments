@@ -1,16 +1,15 @@
 ﻿using Backend.Entities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-namespace Backend.Data
+namespace Backend.Data;
+
+public class AppDbContext : IdentityDbContext<ApplicationUser>
 {
-    public class AppDbContext : DbContext<ApplicationUser>
+    public AppDbContext(DbContextOptions options) : base(options)
     {
-        public AppDbContext(DbContextOptions options) : base(options)
-        {
-
-        }
-        
     }
-
 }
+    
+
