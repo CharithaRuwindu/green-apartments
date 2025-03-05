@@ -1,8 +1,0 @@
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
-E:\personal project\Green Apartments\Backend\obj\Debug\net8.0\Backend.sourcelink.json
