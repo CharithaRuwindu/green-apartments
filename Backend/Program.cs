@@ -19,7 +19,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddDefaultTokenProviders();
 
 // Add Authentication
-var key = Encoding.UTF8.GetBytes("MyKey123456Secret");
+var key = Encoding.UTF8.GetBytes("MyKey123456SecretBelongsToTheOwner98");
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

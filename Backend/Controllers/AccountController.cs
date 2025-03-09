@@ -40,7 +40,7 @@ namespace Backend.Controllers
             if (user != null && await _userManager.CheckPasswordAsync(user, model.Password))
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.UTF8.GetBytes("MyKey123456Secret");
+                var key = Encoding.UTF8.GetBytes("MyKey123456SecretBelongsToTheOwner98");
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new[]
