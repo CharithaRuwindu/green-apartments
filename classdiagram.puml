@@ -1,0 +1,78 @@
+@startuml Green Apartments
+
+title __Green Apartments__
+
+class User {
+    Id: Long
+    Fname: String
+    Lname: String
+    ContectNo: String
+    Email: String
+    Create()
+    Update()
+    Delete()
+}
+
+class Room {
+    Id: Long
+    Category: Enum
+    Status: Enum
+
+    Create()
+    Update()
+    Delete()
+    ChangeStatus()
+}
+
+class RoomCategory {
+    Id: Long
+    Name: String
+    Occupancy: Int
+    Size: Float
+    View: String
+    Photos: List<String>
+    AmenityId: List<Long>
+    Price: Float
+
+    Create()
+    Update()
+    Delete()
+}
+
+class Amenities {
+    Id: Long
+    Name: String
+    Create()
+    Update()
+    Delete()
+}
+
+class Booking {
+    Id: Long
+    UserId: Long
+    CategoryId: Long
+    PaymentId: Long
+    From: Date
+    To: Date
+    Adults: Int
+    RoomCount: Int
+
+    Create()
+    Update()
+    Delete()
+}
+
+Class Payment {
+    Id: Long
+    Price: Float
+
+    Create()
+}
+
+User "0..*" --> "1" Booking
+Booking "1" --> "1" Payment
+Booking "1..*" --> "1" RoomCategory
+RoomCategory "0..*" --> "1" Room
+RoomCategory "1..*" --> "1" Amenities
+
+@enduml
