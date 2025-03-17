@@ -25,7 +25,14 @@ namespace Backend.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
-            var user = new ApplicationUser { UserName = model.Email, Email = model.Email, FirstName = model.FirstName, LastName = model.LastName, ContactNumber = model.ContactNumber };
+            var user = new ApplicationUser
+            { 
+                UserName = model.Email,
+                Email = model.Email,
+                FirstName = model.FirstName,
+                LastName = model.LastName,
+                ContactNumber = model.ContactNumber,
+            };
             var result = await _userManager.CreateAsync(user, model.Password);
 
             if (result.Succeeded) return Ok(new { message = "User registered successfully" });
@@ -59,6 +66,9 @@ namespace Backend.Controllers
 
     public class RegisterModel
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string ContactNumber { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
     }
